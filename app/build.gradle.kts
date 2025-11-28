@@ -60,4 +60,6 @@ dependencies {
 
     // Barcode scanning dependencies
     implementation("com.google.mlkit:barcode-scanning:17.3.0")
+    // Extension for icons
+    implementation("androidx.compose.material:material-icons-extended:1.5.4")
 }
